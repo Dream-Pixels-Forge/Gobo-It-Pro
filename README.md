@@ -3,6 +3,8 @@
 ## Overview
 Gobo_It Pro is a professional-grade Blender addon that provides a comprehensive gobo lighting system with advanced features and presets. It allows users to easily create and manipulate gobo effects for spot lights in Blender, making it perfect for architectural visualization, stage lighting, and creative lighting design.
 
+![Screenshot 2025-03-15 213421](https://github.com/user-attachments/assets/fdab85c8-6cb7-43a3-8064-7303a9a23ccb)
+
 ## Features
 - Easy-to-use gobo setup for spot lights
 - Advanced node-based gobo system
